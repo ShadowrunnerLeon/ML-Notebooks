@@ -1,0 +1,2582 @@
+,encoder,scaler,decomposer,classifier,f1_macro,f1_micro,f1_weighted,y_pred,combination
+0,OneHotEncoder,MinMaxScaler,PCA,KNeighborsClassifier,0.2045820371097486,0.8291814946619217,0.7950902456091776,"['China' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'Taiwan'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'Hong Kong'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'China' 'United States' 'Taiwan'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States' 'China'
+ 'Hong Kong' 'China' 'United States' 'United States' 'Hong Kong' 'China'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'Hong Kong'
+ 'Cayman Islands' 'China' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'Taiwan' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'Japan' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'United States']",OneHotEncoder MinMaxScaler PCA KNeighborsClassifier
+1,OneHotEncoder,MinMaxScaler,PCA,SVC,0.11018983543384189,0.5516014234875445,0.4983954347141621,"['China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'United States']",OneHotEncoder MinMaxScaler PCA SVC
+2,OneHotEncoder,MinMaxScaler,PCA,DecisionTreeClassifier,0.6356188614253131,0.9857651245551602,0.9857633023744837,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'Cayman Islands' 'China' 'United States' 'Spain' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'China' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China'
+ 'Spain' 'China' 'China' 'Hong Kong' 'China' 'United States'
+ 'United States' 'Japan' 'China' 'China' 'United States' 'Japan' 'China'
+ 'United States' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'Japan' 'Hong Kong' 'Spain' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong' 'China'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'United States' 'South Korea' 'South Korea' 'China'
+ 'Hong Kong' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'British Virgin Islands' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'British Virgin Islands' 'United States' 'China' 'Taiwan'
+ 'China' 'United States' 'United States' 'South Korea' 'United States'
+ 'China' 'China' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States']",OneHotEncoder MinMaxScaler PCA DecisionTreeClassifier
+3,OneHotEncoder,MinMaxScaler,PCA,LogisticRegression,0.6869565217391305,0.9893238434163701,0.9846820362060963,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'Hong Kong' 'China' 'United States' 'Spain' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'China' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China'
+ 'Spain' 'China' 'China' 'Hong Kong' 'China' 'United States'
+ 'United States' 'Japan' 'China' 'China' 'United States' 'Japan' 'China'
+ 'United States' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'Japan' 'Hong Kong' 'Spain' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong' 'China'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'United States' 'South Korea' 'South Korea' 'China'
+ 'Hong Kong' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'Hong Kong' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'Taiwan' 'China' 'United States'
+ 'United States' 'South Korea' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States']",OneHotEncoder MinMaxScaler PCA LogisticRegression
+4,OneHotEncoder,MinMaxScaler,PCA,SGDClassifier,0.08268450065107777,0.35587188612099646,0.3721443986580258,"['South Korea' 'United States' 'United States' 'United States'
+ 'South Korea' 'United States' 'South Korea' 'United States'
+ 'United States' 'South Korea' 'United States' 'United States'
+ 'United States' 'South Korea' 'United States' 'United States'
+ 'South Korea' 'United States' 'United States' 'South Korea'
+ 'United States' 'South Korea' 'South Korea' 'South Korea' 'United States'
+ 'South Korea' 'United States' 'United States' 'United States'
+ 'South Korea' 'South Korea' 'United States' 'United States' 'South Korea'
+ 'United States' 'South Korea' 'South Korea' 'United States'
+ 'United States' 'South Korea' 'United States' 'United States'
+ 'South Korea' 'United States' 'South Korea' 'South Korea' 'United States'
+ 'South Korea' 'United States' 'United States' 'United States'
+ 'South Korea' 'United States' 'United States' 'South Korea'
+ 'United States' 'United States' 'South Korea' 'United States'
+ 'South Korea' 'United States' 'United States' 'South Korea'
+ 'United States' 'United States' 'South Korea' 'South Korea'
+ 'United States' 'United States' 'United States' 'South Korea'
+ 'United States' 'South Korea' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'South Korea'
+ 'United States' 'United States' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'South Korea' 'United States'
+ 'South Korea' 'South Korea' 'United States' 'United States' 'South Korea'
+ 'South Korea' 'United States' 'United States' 'South Korea'
+ 'United States' 'South Korea' 'South Korea' 'South Korea' 'South Korea'
+ 'South Korea' 'United States' 'United States' 'United States'
+ 'United States' 'South Korea' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States'
+ 'United States' 'United States' 'China' 'South Korea' 'South Korea'
+ 'South Korea' 'South Korea' 'South Korea' 'South Korea' 'South Korea'
+ 'United States' 'United States' 'South Korea' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'China' 'China' 'South Korea' 'United States' 'United States'
+ 'United States' 'South Korea' 'South Korea' 'South Korea' 'South Korea'
+ 'United States' 'South Korea' 'United States' 'South Korea'
+ 'United States' 'United States' 'China' 'South Korea' 'South Korea'
+ 'United States' 'South Korea' 'United States' 'South Korea'
+ 'United States' 'United States' 'South Korea' 'South Korea'
+ 'United States' 'United States' 'South Korea' 'South Korea' 'South Korea'
+ 'United States' 'South Korea' 'South Korea' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States'
+ 'South Korea' 'South Korea' 'South Korea' 'United States' 'United States'
+ 'South Korea' 'China' 'South Korea' 'United States' 'South Korea'
+ 'South Korea' 'South Korea' 'South Korea' 'United States' 'South Korea'
+ 'United States' 'South Korea' 'United States' 'South Korea' 'South Korea'
+ 'United States' 'South Korea' 'United States' 'South Korea' 'South Korea'
+ 'South Korea' 'South Korea' 'United States' 'United States' 'South Korea'
+ 'South Korea' 'South Korea' 'South Korea' 'United States' 'South Korea'
+ 'United States' 'United States' 'United States' 'South Korea'
+ 'United States' 'United States' 'South Korea' 'South Korea' 'South Korea'
+ 'South Korea' 'United States' 'South Korea' 'South Korea' 'South Korea'
+ 'South Korea' 'United States' 'South Korea' 'United States' 'South Korea'
+ 'United States' 'South Korea' 'South Korea' 'South Korea' 'United States'
+ 'South Korea' 'South Korea' 'United States' 'United States'
+ 'United States' 'South Korea' 'South Korea' 'United States' 'South Korea'
+ 'South Korea' 'United States' 'South Korea' 'United States'
+ 'United States' 'South Korea' 'United States' 'South Korea' 'South Korea'
+ 'United States' 'United States' 'China' 'United States' 'South Korea'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'South Korea'
+ 'United States' 'South Korea' 'United States' 'South Korea' 'South Korea'
+ 'South Korea' 'South Korea' 'United States' 'United States' 'South Korea'
+ 'United States' 'China' 'United States' 'South Korea' 'United States'
+ 'South Korea' 'South Korea' 'United States']",OneHotEncoder MinMaxScaler PCA SGDClassifier
+5,OneHotEncoder,StandardScaler,PCA,KNeighborsClassifier,0.19341443646829204,0.8327402135231317,0.80911082768085,"['China' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'Taiwan'
+ 'United States' 'United States' 'China' 'United States' 'Taiwan'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'Hong Kong' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Taiwan'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'United States' 'Hong Kong' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'Japan' 'United States' 'China'
+ 'Hong Kong' 'China' 'United States' 'United States' 'Hong Kong' 'China'
+ 'China' 'United States' 'Hong Kong' 'China' 'United States'
+ 'United States' 'United States' 'Taiwan' 'United States' 'Hong Kong'
+ 'United States' 'Taiwan' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'United States' 'China' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'Hong Kong' 'Hong Kong' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'Taiwan' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'Japan'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Taiwan' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States']",OneHotEncoder StandardScaler PCA KNeighborsClassifier
+6,OneHotEncoder,StandardScaler,PCA,SVC,0.11018983543384189,0.5516014234875445,0.4983954347141621,"['China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'United States']",OneHotEncoder StandardScaler PCA SVC
+7,OneHotEncoder,StandardScaler,PCA,DecisionTreeClassifier,0.6136691591237047,0.9857651245551602,0.9841064431811763,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'Hong Kong' 'China' 'United States' 'Spain' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'China' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China'
+ 'Spain' 'China' 'China' 'Hong Kong' 'China' 'United States'
+ 'United States' 'Japan' 'China' 'China' 'United States' 'Japan' 'China'
+ 'United States' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'Japan' 'Hong Kong' 'Spain' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong' 'China'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'United States' 'South Korea' 'South Korea' 'China'
+ 'Hong Kong' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China' 'Bahamas'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China' 'Bahamas'
+ 'United States' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'Spain' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'Hong Kong'
+ 'China' 'China' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States']",OneHotEncoder StandardScaler PCA DecisionTreeClassifier
+8,OneHotEncoder,StandardScaler,PCA,LogisticRegression,0.6818181818181819,0.9893238434163701,0.9844710449692655,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'Taiwan'
+ 'China' 'United States' 'Spain' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'China' 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China' 'Spain'
+ 'China' 'China' 'Hong Kong' 'China' 'United States' 'United States'
+ 'Japan' 'China' 'China' 'United States' 'Japan' 'China' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'United States' 'Japan'
+ 'Hong Kong' 'Spain' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'South Korea' 'South Korea' 'China' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'Hong Kong' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'Hong Kong' 'United States' 'China'
+ 'Taiwan' 'China' 'United States' 'United States' 'South Korea'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Hong Kong' 'China' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States']",OneHotEncoder StandardScaler PCA LogisticRegression
+9,OneHotEncoder,StandardScaler,PCA,SGDClassifier,0.1358631324986959,0.3238434163701068,0.4520699208431026,"['Taiwan' 'Hong Kong' 'China' 'United States' 'Taiwan' 'Hong Kong'
+ 'Taiwan' 'Hong Kong' 'Hong Kong' 'China' 'Hong Kong' 'China' 'Hong Kong'
+ 'China' 'Hong Kong' 'United States' 'China' 'Hong Kong' 'Hong Kong'
+ 'Taiwan' 'United States' 'Taiwan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'United States' 'Hong Kong' 'Hong Kong'
+ 'Taiwan' 'Taiwan' 'Hong Kong' 'Hong Kong' 'Taiwan' 'Hong Kong' 'Taiwan'
+ 'Taiwan' 'United States' 'Hong Kong' 'China' 'United States' 'Hong Kong'
+ 'Taiwan' 'Hong Kong' 'China' 'Taiwan' 'Hong Kong' 'United States'
+ 'Hong Kong' 'Hong Kong' 'United States' 'Taiwan' 'China' 'Hong Kong'
+ 'Taiwan' 'Hong Kong' 'Hong Kong' 'Taiwan' 'Hong Kong' 'Taiwan'
+ 'Hong Kong' 'Hong Kong' 'Taiwan' 'Hong Kong' 'Hong Kong' 'United States'
+ 'Taiwan' 'South Korea' 'Hong Kong' 'Hong Kong' 'Taiwan' 'Hong Kong'
+ 'Taiwan' 'Hong Kong' 'United States' 'Hong Kong' 'China' 'United States'
+ 'Taiwan' 'Hong Kong' 'Hong Kong' 'China' 'United States' 'Taiwan' 'China'
+ 'Hong Kong' 'Taiwan' 'United States' 'Taiwan' 'Taiwan' 'China'
+ 'Hong Kong' 'Taiwan' 'Taiwan' 'Hong Kong' 'Hong Kong' 'Taiwan'
+ 'United States' 'United States' 'Taiwan' 'United States' 'Taiwan' 'China'
+ 'Hong Kong' 'Hong Kong' 'Hong Kong' 'Hong Kong' 'United States'
+ 'Hong Kong' 'United States' 'Hong Kong' 'United States' 'Taiwan'
+ 'United States' 'Hong Kong' 'Hong Kong' 'China' 'Taiwan' 'China'
+ 'United States' 'Taiwan' 'Taiwan' 'Taiwan' 'United States' 'Hong Kong'
+ 'Hong Kong' 'Taiwan' 'Hong Kong' 'China' 'United States' 'United States'
+ 'Hong Kong' 'China' 'China' 'China' 'United States' 'Hong Kong'
+ 'Hong Kong' 'Hong Kong' 'Taiwan' 'Taiwan' 'Taiwan' 'Taiwan' 'Hong Kong'
+ 'Taiwan' 'Hong Kong' 'Taiwan' 'Hong Kong' 'United States' 'China'
+ 'Taiwan' 'Taiwan' 'Hong Kong' 'Taiwan' 'Hong Kong' 'Taiwan'
+ 'United States' 'Hong Kong' 'South Korea' 'China' 'Hong Kong' 'Hong Kong'
+ 'Taiwan' 'Taiwan' 'United States' 'United States' 'United States'
+ 'Taiwan' 'United States' 'Hong Kong' 'Hong Kong' 'Taiwan' 'Hong Kong'
+ 'Taiwan' 'Taiwan' 'Taiwan' 'Hong Kong' 'Hong Kong' 'Taiwan' 'China'
+ 'Taiwan' 'China' 'Taiwan' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'Taiwan' 'Hong Kong' 'Taiwan' 'Taiwan'
+ 'Hong Kong' 'Taiwan' 'Hong Kong' 'Taiwan' 'Taiwan' 'Taiwan' 'China'
+ 'Hong Kong' 'Hong Kong' 'Taiwan' 'United States' 'United States' 'Taiwan'
+ 'Hong Kong' 'Taiwan' 'China' 'Hong Kong' 'Hong Kong' 'United States'
+ 'Hong Kong' 'Hong Kong' 'Taiwan' 'Taiwan' 'Taiwan' 'Taiwan'
+ 'United States' 'Taiwan' 'Taiwan' 'United States' 'Taiwan'
+ 'United States' 'Taiwan' 'Hong Kong' 'Taiwan' 'United States' 'Taiwan'
+ 'Taiwan' 'China' 'United States' 'Taiwan' 'Taiwan' 'Hong Kong'
+ 'Hong Kong' 'Hong Kong' 'United States' 'Taiwan' 'United States' 'Taiwan'
+ 'Taiwan' 'Hong Kong' 'China' 'Hong Kong' 'Hong Kong' 'Taiwan' 'Hong Kong'
+ 'Taiwan' 'Taiwan' 'Hong Kong' 'Hong Kong' 'China' 'Hong Kong' 'Taiwan'
+ 'United States' 'United States' 'Hong Kong' 'United States' 'Hong Kong'
+ 'Hong Kong' 'Taiwan' 'Taiwan' 'Hong Kong' 'Taiwan' 'Hong Kong' 'Taiwan'
+ 'United States' 'United States' 'Taiwan' 'Hong Kong' 'Hong Kong' 'China'
+ 'Hong Kong' 'China' 'United States' 'Taiwan' 'Hong Kong' 'Taiwan'
+ 'Taiwan' 'Hong Kong']",OneHotEncoder StandardScaler PCA SGDClassifier
+10,OrdinalEncoder,MinMaxScaler,PCA,KNeighborsClassifier,0.18170945049300094,0.6370106761565836,0.6233351026806245,"['China' 'China' 'United States' 'United States' 'China' 'United States'
+ 'China' 'Taiwan' 'United States' 'Hong Kong' 'China' 'China'
+ 'United States' 'China' 'Hong Kong' 'China' 'Hong Kong' 'China'
+ 'United States' 'China' 'United States' 'Japan' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'Taiwan' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'South Korea' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'China' 'Japan' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'Taiwan' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong'
+ 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'United States' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'China' 'United States'
+ 'China' 'China' 'China' 'United States' 'China' 'Hong Kong' 'Japan'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'Hong Kong' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'Taiwan' 'United States' 'China'
+ 'China' 'China' 'China' 'China' 'Taiwan' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States' 'China'
+ 'China' 'China' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'United States' 'United States']",OrdinalEncoder MinMaxScaler PCA KNeighborsClassifier
+11,OrdinalEncoder,MinMaxScaler,PCA,SVC,0.12283806862288467,0.6014234875444839,0.5514428530306019,"['China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China' 'China'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States']",OrdinalEncoder MinMaxScaler PCA SVC
+12,OrdinalEncoder,MinMaxScaler,PCA,DecisionTreeClassifier,0.5688947601758989,0.9644128113879004,0.9636460240334304,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'Taiwan' 'China' 'United States'
+ 'United States' 'United States' 'South Korea' 'Japan' 'Taiwan'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'South Korea' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'Ireland' 'China' 'United States' 'Japan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'Taiwan'
+ 'China' 'United States' 'Spain' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'China' 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China' 'Spain'
+ 'China' 'China' 'Hong Kong' 'China' 'United States' 'United States'
+ 'Japan' 'China' 'China' 'United States' 'Japan' 'China' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'United States' 'Japan'
+ 'Hong Kong' 'Spain' 'United States' 'United States' 'United States'
+ 'China' 'China' 'United States' 'Hong Kong' 'China' 'China' 'China'
+ 'China' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'United States' 'China'
+ 'China' 'United States' 'South Korea' 'South Korea' 'China' 'Bahamas'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'Hong Kong' 'United States' 'China'
+ 'Japan' 'China' 'United States' 'United States' 'South Korea'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Ireland' 'China' 'China' 'China'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States']",OrdinalEncoder MinMaxScaler PCA DecisionTreeClassifier
+13,OrdinalEncoder,MinMaxScaler,PCA,LogisticRegression,0.22386441678443925,0.8540925266903915,0.8330183877139437,"['China' 'China' 'China' 'United States' 'China' 'Taiwan' 'United States'
+ 'South Korea' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'Taiwan' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'Taiwan' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'Taiwan' 'Japan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'Japan' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'Taiwan' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'Taiwan' 'United States' 'China' 'China'
+ 'United States' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'Taiwan' 'China'
+ 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'China' 'China'
+ 'China' 'United States' 'United States' 'China' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'United States'
+ 'British Virgin Islands' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'Hong Kong' 'United States' 'China' 'United States'
+ 'Japan' 'China' 'Taiwan' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'China' 'China' 'China' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Taiwan' 'Taiwan' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'Taiwan' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'Taiwan' 'United States' 'United States']",OrdinalEncoder MinMaxScaler PCA LogisticRegression
+14,OrdinalEncoder,MinMaxScaler,PCA,SGDClassifier,0.18249698621364285,0.6476868327402135,0.7177329001705052,"['China' 'China' 'China' 'United States' 'China' 'Taiwan' 'United States'
+ 'Eswatini (Swaziland)' 'United States' 'China' 'Eswatini (Swaziland)'
+ 'China' 'Eswatini (Swaziland)' 'China' 'China' 'United States' 'China'
+ 'Eswatini (Swaziland)' 'United States' 'China' 'United States' 'China'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'Eswatini (Swaziland)' 'United States' 'China' 'United States'
+ 'Eswatini (Swaziland)' 'Eswatini (Swaziland)' 'United States'
+ 'Eswatini (Swaziland)' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'Eswatini (Swaziland)' 'Cayman Islands' 'China' 'Eswatini (Swaziland)'
+ 'United States' 'United States' 'Eswatini (Swaziland)' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'Taiwan' 'Eswatini (Swaziland)'
+ 'United States' 'Eswatini (Swaziland)' 'Spain' 'Taiwan' 'United States'
+ 'United States' 'Eswatini (Swaziland)' 'Eswatini (Swaziland)'
+ 'United States' 'United States' 'United States' 'Eswatini (Swaziland)'
+ 'Eswatini (Swaziland)' 'China' 'Eswatini (Swaziland)' 'China'
+ 'Eswatini (Swaziland)' 'United States' 'Eswatini (Swaziland)' 'China'
+ 'United States' 'United States' 'United States' 'Eswatini (Swaziland)'
+ 'China' 'United States' 'United States' 'China' 'Taiwan' 'United States'
+ 'United States' 'China' 'United States' 'China' 'Eswatini (Swaziland)'
+ 'Spain' 'Spain' 'Eswatini (Swaziland)' 'Taiwan' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'Spain'
+ 'Cayman Islands' 'Eswatini (Swaziland)' 'China' 'Eswatini (Swaziland)'
+ 'Eswatini (Swaziland)' 'Cayman Islands' 'Eswatini (Swaziland)'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'Spain' 'China' 'United States'
+ 'Spain' 'Spain' 'China' 'United States' 'Eswatini (Swaziland)'
+ 'Eswatini (Swaziland)' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'Eswatini (Swaziland)' 'Cayman Islands'
+ 'China' 'China' 'United States' 'United States' 'China'
+ 'Eswatini (Swaziland)' 'United States' 'China' 'United States' 'Spain'
+ 'Eswatini (Swaziland)' 'China' 'China' 'Spain' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Eswatini (Swaziland)'
+ 'China' 'China' 'China' 'United States' 'United States' 'United States'
+ 'China' 'Eswatini (Swaziland)' 'United States' 'Spain' 'Spain'
+ 'United States' 'Eswatini (Swaziland)' 'United States' 'China'
+ 'United States' 'Taiwan' 'China' 'Spain' 'Eswatini (Swaziland)'
+ 'United States' 'United States' 'Spain' 'Eswatini (Swaziland)'
+ 'Eswatini (Swaziland)' 'China' 'China' 'China' 'China' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'Eswatini (Swaziland)' 'China' 'China' 'United States' 'Spain'
+ 'Eswatini (Swaziland)' 'United States' 'Spain' 'Spain' 'Cayman Islands'
+ 'Eswatini (Swaziland)' 'Eswatini (Swaziland)' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'Eswatini (Swaziland)' 'Eswatini (Swaziland)' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'China' 'United States' 'China'
+ 'Eswatini (Swaziland)' 'China' 'Spain' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'Spain'
+ 'Eswatini (Swaziland)' 'Spain' 'China' 'Eswatini (Swaziland)'
+ 'Eswatini (Swaziland)' 'China' 'Eswatini (Swaziland)' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'Spain'
+ 'United States' 'China' 'United States' 'United States' 'Spain'
+ 'Eswatini (Swaziland)' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'Spain' 'United States'
+ 'Eswatini (Swaziland)']",OrdinalEncoder MinMaxScaler PCA SGDClassifier
+15,OrdinalEncoder,StandardScaler,PCA,KNeighborsClassifier,0.1838476851292496,0.6441281138790036,0.6326878332338368,"['China' 'China' 'United States' 'United States' 'China' 'United States'
+ 'China' 'Taiwan' 'United States' 'Hong Kong' 'China' 'China'
+ 'United States' 'China' 'Hong Kong' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Japan' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Taiwan' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'Taiwan' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'South Korea' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'China' 'Japan' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'Taiwan' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong'
+ 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'United States' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'China' 'United States'
+ 'China' 'China' 'China' 'United States' 'China' 'Hong Kong' 'Japan'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'Hong Kong' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'Taiwan' 'United States' 'China'
+ 'China' 'China' 'China' 'China' 'Taiwan' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'Hong Kong' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'United States' 'China'
+ 'China' 'China' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'Japan' 'China' 'United States' 'United States'
+ 'United States' 'China' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'United States' 'United States']",OrdinalEncoder StandardScaler PCA KNeighborsClassifier
+16,OrdinalEncoder,StandardScaler,PCA,SVC,0.12283806862288467,0.6014234875444839,0.5514428530306019,"['China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China' 'China'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'China' 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States']",OrdinalEncoder StandardScaler PCA SVC
+17,OrdinalEncoder,StandardScaler,PCA,DecisionTreeClassifier,0.6143904230546829,0.9786476868327402,0.9790649201597722,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Ireland' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Ireland' 'China'
+ 'United States' 'Taiwan' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong' 'China'
+ 'United States' 'Spain' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'China' 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China' 'Spain'
+ 'China' 'China' 'Hong Kong' 'China' 'United States' 'United States'
+ 'Japan' 'China' 'China' 'United States' 'Japan' 'China' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'United States' 'Japan'
+ 'Hong Kong' 'Spain' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'South Korea' 'South Korea' 'China' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'Hong Kong' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'Eswatini (Swaziland)' 'United States'
+ 'China' 'Taiwan' 'China' 'United States' 'United States' 'South Korea'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Hong Kong' 'China' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States']",OrdinalEncoder StandardScaler PCA DecisionTreeClassifier
+18,OrdinalEncoder,StandardScaler,PCA,LogisticRegression,0.4475807606242388,0.9074733096085409,0.9084320811537275,"['China' 'China' 'China' 'United States' 'China' 'Taiwan' 'United States'
+ 'South Korea' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'Hong Kong' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'South Korea'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'Taiwan' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'South Korea' 'Japan'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'Taiwan'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'Taiwan' 'United States' 'Hong Kong' 'China' 'United States' 'Spain'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'Hong Kong' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'Taiwan' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'Spain' 'China' 'China' 'Hong Kong'
+ 'China' 'United States' 'United States' 'British Virgin Islands' 'China'
+ 'China' 'United States' 'Japan' 'China' 'United States' 'Hong Kong'
+ 'United States' 'China' 'United States' 'Japan' 'Hong Kong' 'Taiwan'
+ 'China' 'United States' 'United States' 'China' 'China' 'United States'
+ 'Hong Kong' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'China' 'United States' 'South Korea'
+ 'South Korea' 'Taiwan' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'Hong Kong' 'South Korea' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'Taiwan' 'United States' 'United States']",OrdinalEncoder StandardScaler PCA LogisticRegression
+19,OrdinalEncoder,StandardScaler,PCA,SGDClassifier,0.1346147767972529,0.46619217081850534,0.5821938806013883,"['China' 'China' 'China' 'United States' 'China' 'Ireland' 'United States'
+ 'Ireland' 'Ireland' 'China' 'Ireland' 'China' 'Ireland' 'China' 'Ireland'
+ 'United States' 'China' 'Ireland' 'Ireland' 'Spain' 'Ireland' 'China'
+ 'China' 'United States' 'United States' 'United States' 'Ireland'
+ 'Ireland' 'Ireland' 'China' 'United States' 'Ireland' 'Ireland'
+ 'United States' 'Ireland' 'United States' 'Spain' 'United States'
+ 'Ireland' 'China' 'United States' 'Ireland' 'United States' 'Ireland'
+ 'United States' 'China' 'Ireland' 'United States' 'Ireland' 'Ireland'
+ 'United States' 'China' 'China' 'Ireland' 'China' 'Ireland' 'Ireland'
+ 'United States' 'Ireland' 'Spain' 'Ireland' 'Ireland' 'United States'
+ 'Ireland' 'Ireland' 'United States' 'United States' 'United States'
+ 'Ireland' 'Ireland' 'China' 'Ireland' 'China' 'Ireland' 'United States'
+ 'Ireland' 'China' 'United States' 'United States' 'Ireland' 'Ireland'
+ 'China' 'Ireland' 'United States' 'China' 'Ireland' 'United States'
+ 'United States' 'China' 'United States' 'China' 'Ireland' 'Spain' 'Spain'
+ 'Ireland' 'Ireland' 'United States' 'Ireland' 'United States'
+ 'United States' 'United States' 'Spain' 'South Korea' 'Ireland' 'Ireland'
+ 'Ireland' 'Ireland' 'South Korea' 'Ireland' 'United States' 'Ireland'
+ 'Ireland' 'United States' 'China' 'Ireland' 'Ireland' 'China' 'Spain'
+ 'China' 'United States' 'Spain' 'Spain' 'China' 'United States' 'Ireland'
+ 'Ireland' 'United States' 'Ireland' 'China' 'United States'
+ 'United States' 'Ireland' 'United States' 'China' 'China' 'United States'
+ 'Ireland' 'China' 'Ireland' 'United States' 'China' 'United States'
+ 'Spain' 'Ireland' 'China' 'Ireland' 'Spain' 'Ireland' 'Ireland' 'China'
+ 'China' 'United States' 'Ireland' 'China' 'Ireland' 'China'
+ 'United States' 'Ireland' 'United States' 'China' 'Ireland' 'Ireland'
+ 'Spain' 'Spain' 'United States' 'Ireland' 'United States' 'Spain'
+ 'United States' 'Ireland' 'Ireland' 'United States' 'Ireland'
+ 'United States' 'United States' 'Spain' 'Ireland' 'Ireland' 'China'
+ 'China' 'China' 'China' 'China' 'China' 'United States' 'China' 'Ireland'
+ 'China' 'United States' 'China' 'Ireland' 'China' 'China' 'Ireland'
+ 'Spain' 'Ireland' 'United States' 'United States' 'United States'
+ 'South Korea' 'Ireland' 'Ireland' 'United States' 'United States'
+ 'United States' 'China' 'Ireland' 'United States' 'China' 'Ireland'
+ 'Ireland' 'United States' 'China' 'Ireland' 'Spain' 'United States'
+ 'China' 'United States' 'United States' 'Spain' 'Spain' 'United States'
+ 'Spain' 'United States' 'China' 'Ireland' 'United States' 'Ireland'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'Ireland'
+ 'Ireland' 'Ireland' 'China' 'United States' 'United States' 'Spain'
+ 'Spain' 'Ireland' 'China' 'Ireland' 'Ireland' 'Spain' 'Ireland' 'Spain'
+ 'China' 'Ireland' 'Ireland' 'China' 'Ireland' 'United States'
+ 'United States' 'United States' 'Ireland' 'United States' 'Ireland'
+ 'Ireland' 'Spain' 'China' 'Ireland' 'Spain' 'Ireland' 'China'
+ 'United States' 'United States' 'Spain' 'Ireland' 'Ireland' 'China'
+ 'Ireland' 'China' 'Ireland' 'United States' 'Ireland' 'United States'
+ 'United States' 'Ireland']",OrdinalEncoder StandardScaler PCA SGDClassifier
+20,OneHotEncoder,MinMaxScaler,PCA,<catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>,0.7947814742335291,0.9928825622775801,0.9894166997467344,"[['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['Japan']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Ireland']
+ ['China']
+ ['United States']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['Spain']
+ ['United States']
+ ['China']
+ ['China']
+ ['Spain']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['Japan']
+ ['Hong Kong']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['South Korea']
+ ['South Korea']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']]",OneHotEncoder MinMaxScaler PCA <catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>
+21,OneHotEncoder,MinMaxScaler,PCA,RandomForestClassifier,0.587031118695878,0.9572953736654805,0.9454470420212892,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'China' 'Japan' 'Taiwan' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'Taiwan' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'China' 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China' 'Spain'
+ 'China' 'China' 'Hong Kong' 'China' 'United States' 'United States'
+ 'Japan' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'Japan'
+ 'Hong Kong' 'Spain' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'United States' 'United States' 'China' 'Taiwan' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States']",OneHotEncoder MinMaxScaler PCA RandomForestClassifier
+22,OneHotEncoder,StandardScaler,PCA,<catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>,0.6869565217391305,0.9893238434163701,0.9846820362060963,"[['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['Japan']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['Spain']
+ ['United States']
+ ['China']
+ ['China']
+ ['Spain']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['Japan']
+ ['Hong Kong']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['South Korea']
+ ['South Korea']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']]",OneHotEncoder StandardScaler PCA <catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>
+23,OneHotEncoder,StandardScaler,PCA,RandomForestClassifier,0.4895344837810591,0.9430604982206406,0.9246860172224575,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'China' 'Japan' 'Taiwan' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'China'
+ 'Hong Kong' 'China' 'United States' 'United States' 'Japan' 'China'
+ 'China' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'United States' 'Japan'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'China' 'United States' 'Hong Kong' 'China' 'China' 'China'
+ 'China' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'United States' 'China'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'Hong Kong' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'United States' 'China' 'Taiwan' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States']",OneHotEncoder StandardScaler PCA RandomForestClassifier
+24,OrdinalEncoder,MinMaxScaler,PCA,<catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>,0.628099173553719,0.9893238434163701,0.9860886444516339,"[['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['Japan']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['Spain']
+ ['United States']
+ ['China']
+ ['China']
+ ['Spain']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['Japan']
+ ['Hong Kong']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['South Korea']
+ ['South Korea']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['Bahamas']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']]",OrdinalEncoder MinMaxScaler PCA <catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>
+25,OrdinalEncoder,MinMaxScaler,PCA,RandomForestClassifier,0.49722426003359066,0.9395017793594306,0.9224709877178964,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'China' 'United States' 'United States' 'China' 'China'
+ 'Spain' 'China' 'China' 'Hong Kong' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'Hong Kong' 'United States' 'United States' 'Hong Kong' 'Spain' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'Hong Kong' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'China' 'United States' 'South Korea'
+ 'South Korea' 'China' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'United States' 'United States'
+ 'China' 'China' 'Hong Kong' 'United States' 'China' 'United States'
+ 'China' 'United States' 'United States' 'South Korea' 'United States'
+ 'China' 'China' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States']",OrdinalEncoder MinMaxScaler PCA RandomForestClassifier
+26,OrdinalEncoder,StandardScaler,PCA,<catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>,0.628099173553719,0.9893238434163701,0.9860886444516339,"[['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['Japan']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['Taiwan']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['Spain']
+ ['United States']
+ ['China']
+ ['China']
+ ['Spain']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['China']
+ ['United States']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['China']
+ ['United States']
+ ['Japan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['Hong Kong']
+ ['United States']
+ ['Japan']
+ ['Hong Kong']
+ ['Spain']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['South Korea']
+ ['South Korea']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['Bahamas']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['Hong Kong']
+ ['United States']
+ ['China']
+ ['Taiwan']
+ ['China']
+ ['United States']
+ ['United States']
+ ['South Korea']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['Hong Kong']
+ ['China']
+ ['China']
+ ['China']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']
+ ['United States']
+ ['China']
+ ['United States']
+ ['United States']]",OrdinalEncoder StandardScaler PCA <catboost.core.CatBoostClassifier object at 0x7f2fda6021d0>
+27,OrdinalEncoder,StandardScaler,PCA,RandomForestClassifier,0.4665361305361305,0.9395017793594306,0.9196389849770633,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'China' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'China' 'China' 'United States' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'China' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'China' 'Hong Kong' 'China' 'United States' 'United States' 'Japan'
+ 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'United States' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'China' 'United States' 'Hong Kong' 'China' 'China' 'China'
+ 'China' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'United States' 'China'
+ 'China' 'United States' 'China' 'China' 'China' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'Hong Kong' 'United States' 'China'
+ 'Taiwan' 'China' 'United States' 'United States' 'South Korea'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Hong Kong' 'China' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States']",OrdinalEncoder StandardScaler PCA RandomForestClassifier
+28,OneHotEncoder,MinMaxScaler,PCA,MLPClassifier,0.6471534947671508,0.9715302491103203,0.9655312361062394,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Spain' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'China' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China'
+ 'Spain' 'China' 'China' 'Hong Kong' 'China' 'United States'
+ 'United States' 'Japan' 'China' 'China' 'United States' 'Japan' 'China'
+ 'United States' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'Japan' 'Hong Kong' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'Hong Kong' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'China' 'United States' 'South Korea'
+ 'South Korea' 'China' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'China' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'Taiwan' 'China' 'United States'
+ 'United States' 'South Korea' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States']",OneHotEncoder MinMaxScaler PCA MLPClassifier
+29,OneHotEncoder,StandardScaler,PCA,MLPClassifier,0.7548412698412699,0.9893238434163701,0.9861859571823984,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'Ireland'
+ 'China' 'United States' 'Spain' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'China' 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China' 'Spain'
+ 'China' 'China' 'Hong Kong' 'China' 'United States' 'United States'
+ 'Japan' 'China' 'China' 'United States' 'Japan' 'China' 'United States'
+ 'United States' 'United States' 'Hong Kong' 'United States' 'Japan'
+ 'Hong Kong' 'Spain' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'Hong Kong' 'China' 'China' 'China' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'United States' 'South Korea' 'South Korea' 'China' 'Hong Kong'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'Ireland' 'United States' 'China'
+ 'Taiwan' 'China' 'United States' 'United States' 'South Korea'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'Hong Kong' 'China' 'China'
+ 'China' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States']",OneHotEncoder StandardScaler PCA MLPClassifier
+30,OrdinalEncoder,MinMaxScaler,PCA,MLPClassifier,0.5656162078113474,0.9608540925266904,0.951927978684237,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'China' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'China' 'China'
+ 'United States' 'Taiwan' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong' 'China'
+ 'United States' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'China' 'China'
+ 'China' 'United States' 'Hong Kong' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'China' 'China' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China' 'China'
+ 'China' 'China' 'China' 'United States' 'United States' 'China' 'China'
+ 'Spain' 'China' 'China' 'Hong Kong' 'China' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'Japan' 'China'
+ 'United States' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'Japan' 'Hong Kong' 'South Korea' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong' 'China'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'United States' 'South Korea' 'South Korea' 'China'
+ 'Hong Kong' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'Hong Kong' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'Taiwan' 'China' 'United States'
+ 'United States' 'South Korea' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'China' 'China' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'United States']",OrdinalEncoder MinMaxScaler PCA MLPClassifier
+31,OrdinalEncoder,StandardScaler,PCA,MLPClassifier,0.6556063124777222,0.9822064056939501,0.9769162090003477,"['China' 'China' 'China' 'United States' 'China' 'China' 'United States'
+ 'Japan' 'United States' 'China' 'Taiwan' 'China' 'China' 'China'
+ 'Hong Kong' 'United States' 'China' 'United States' 'United States'
+ 'China' 'United States' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'South Korea' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'Hong Kong' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'China' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'United States' 'South Korea' 'Japan' 'Taiwan' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'South Korea' 'China' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'United States'
+ 'China' 'United States' 'China' 'United States' 'China' 'Hong Kong'
+ 'China' 'United States' 'Taiwan' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States'
+ 'Hong Kong' 'China' 'United States' 'Taiwan' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'China' 'United States' 'Hong Kong' 'United States'
+ 'United States' 'United States' 'China' 'United States' 'United States'
+ 'United States' 'China' 'China' 'China' 'United States' 'United States'
+ 'China' 'United States' 'United States' 'China' 'United States' 'China'
+ 'China' 'China' 'China' 'China' 'Spain' 'United States' 'China' 'China'
+ 'Spain' 'China' 'China' 'Hong Kong' 'China' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'Japan'
+ 'China' 'United States' 'United States' 'United States' 'Hong Kong'
+ 'United States' 'Japan' 'Hong Kong' 'Spain' 'China' 'United States'
+ 'United States' 'China' 'China' 'United States' 'Hong Kong' 'China'
+ 'China' 'China' 'China' 'China' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'China' 'China' 'China' 'United States'
+ 'China' 'China' 'United States' 'South Korea' 'South Korea' 'China'
+ 'Hong Kong' 'United States' 'United States' 'United States'
+ 'United States' 'China' 'United States' 'United States' 'China'
+ 'Hong Kong' 'United States' 'United States' 'China' 'United States'
+ 'China' 'United States' 'China' 'United States' 'United States' 'China'
+ 'China' 'United States' 'China' 'United States' 'China' 'United States'
+ 'United States' 'United States' 'United States' 'China' 'China' 'China'
+ 'United States' 'China' 'Taiwan' 'China' 'United States' 'United States'
+ 'South Korea' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'Hong Kong'
+ 'China' 'China' 'China' 'China' 'United States' 'United States'
+ 'United States' 'United States' 'United States' 'United States'
+ 'United States' 'United States' 'China' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'United States' 'China'
+ 'United States' 'United States' 'China' 'United States' 'China'
+ 'United States' 'United States' 'United States' 'China' 'United States'
+ 'United States']",OrdinalEncoder StandardScaler PCA MLPClassifier
